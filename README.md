@@ -1,0 +1,3 @@
+# Thingworx-Custom-Authentication
+This custom authentication allow every request coming to thingworx to pass through it. If there are cases where you want use thingworx mashup on 3rd party application without seeing the thingworx authentication popup this is best for such scenario. You can also configure it in such a way that if you want to show authentication message of a particular query parameter it will force the authentication on same mashup.
+This is just a code which you need to open in ecilpse and install all required plugins like Thingworx and other helpful zar files. If someone needs all requred file I will push them here soon. Make a ant build, import the output zip files as extension and enjoy the show.
